@@ -1,0 +1,19 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+.thumbnail-image-with-opacity {
+  height: 80px;
+  width: 80px;
+  border-radius: 8px;
+  margin: 6px;
+  opacity: 0.5;
+  border: 0px;
+}
+.thumbnail-image-without-opacity {
+  height: 80px;
+  width: 80px;
+  border-radius: 8px;
+  margin: 6px;
+  border: 0px;
+}
